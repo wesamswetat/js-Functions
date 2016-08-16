@@ -18,7 +18,7 @@ function sum() {
 function gt() {
     var num1 = +document.getElementById('numOneInTargel1').value;
     var num2 = +document.getElementById('numTowInTargel1').value;
-    alert((num1 > num2) ? num1 : num2);
+    alert( "המספר הגדול מביניהם:  "  + ( (num1 > num2) ? num1 : num2));
 }
 
 
