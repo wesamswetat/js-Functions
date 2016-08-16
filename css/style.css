@@ -1,0 +1,22 @@
+body{
+    direction: rtl;
+}
+
+input{
+    padding: 5px;
+    font-size: 1em;
+}
+
+.targelOne , .targeltow{
+    margin: 30px;
+}
+
+.space{
+    color: #f00;
+}
+
+#result{
+    margin: 10px 50px;
+    color: #00f;
+    font-size: 1.5em;
+}
